@@ -16,15 +16,50 @@
 
 ### 🛠️ Tech Toolbox
 
-#### MERN Stack
 <p align="center">
-  <img src="https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=1920&fit=max" alt="MERN Stack" width="70%">
+  <!-- Frontend & Backend -->
+  <img src="https://img.icons8.com/color/96/react-native.png" alt="React" title="React"/>
+  <img src="https://img.icons8.com/color/96/angularjs.png" alt="Angular" title="Angular"/>
+  <img src="https://img.icons8.com/color/96/javascript--v1.png" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/96/nodejs.png" alt="Node.js" title="Node.js"/>
+  <img src="https://img.icons8.com/color/96/nestjs.png" alt="NestJS" title="NestJS"/>
+  <img src="https://img.icons8.com/ios-filled/96/wordpress.png" alt="WordPress" title="WordPress"/>
+  
+  <!-- Databases -->
+  <img src="https://img.icons8.com/color/96/mongodb.png" alt="MongoDB" title="MongoDB"/>
+  <img src="https://img.icons8.com/color/96/postgreesql.png" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://img.icons8.com/color/96/redis.png" alt="Redis" title="Redis"/>
+
+  <!-- Styling & UI -->
+  <img src="https://img.icons8.com/color/96/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
+  <!-- <img src="https://img.icons8.com/color/96/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS"/>-->
+
+  <!-- Tools -->
+  <img src="https://img.icons8.com/ios-filled/96/github.png" alt="GitHub" title="GitHub"/>
+  <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
+  <img src="https://img.icons8.com/color/96/npm.png" alt="NPM" title="NPM"/>
 </p>
 
-#### DevOps & Cloud
 <p align="center">
-  <img src="https://img.icons8.com/color/480/amazon-web-services.png" alt="AWS" width="100"/>  
-  <img src="https://img.icons8.com/color/480/digital-ocean.png" alt="DigitalOcean" width="100"/>
+  🧠 I'm well-versed in full-stack development, database architecture, API design, CMS platforms, and building performant & scalable systems.
+</p>
+
+---
+
+### 🚀 DevOps & Cloud Experience
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/amazon-web-services.png" alt="AWS" title="Amazon Web Services"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" alt="DigitalOcean" title="DigitalOcean" width="96" height="96"/>
+  <img src="https://img.icons8.com/color/96/docker.png" alt="Docker" title="Docker"/>
+  <img src="https://img.icons8.com/color/96/kubernetes.png" alt="Kubernetes" title="Kubernetes"/>
+  <img src="https://img.icons8.com/color/96/linux.png" alt="Linux" title="Linux"/>
+   <img src="https://img.icons8.com/color/96/terraform.png" alt="Terraform" title="Terraform"/>
+  <img src="https://img.icons8.com/fluency/96/github.png" alt="GitHub Actions" title="GitHub Actions"/>
+</p>
+
+<p align="center">
+  From <strong>CI/CD pipelines</strong> to <strong>container orchestration</strong>, I’m deeply hands-on with tools that streamline development, optimize performance, and ensure scalable deployments.
 </p>
 
 ---
