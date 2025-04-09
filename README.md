@@ -1,21 +1,43 @@
-- 👋 Hi, I’m **Nitesh** (@javapaired).  
-- 👀 I’m interested in **web development, Backend Engineering,DevOps Engineering, and scaling applications for businesses**.  
-- 🌱 I’m currently learning **advanced Node.js, microservices architecture, and cloud deployments**.  
-- 💞️ I’m looking to collaborate on **innovative projects that bridge technology and business needs**.  
-- 📫 How to reach me: **[Your Email]** | **[[Your LinkedIn](https://in.linkedin.com/in/nitesh-sharma-076496176)]** | **[Your Twitter/Other Handles]**
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I believe every challenge is an opportunity to grow—and yes, I drink too much Tea!**  
+<h1 align="center">Hey there 👋, I'm Nitesh</h1>
+<h3 align="center">@javapaired • Backend & DevOps Enthusiast • Tea Lover ☕</h3>
 
-### 🛠️ Technologies & Tools
+---
+
+### 👨‍💻 About Me
+- 🔧 Passionate about **Web Development, Backend Engineering, DevOps**, and **scaling applications for businesses**.  
+- 🌱 Currently diving deep into **Advanced Node.js**, **Microservices Architecture**, and **Cloud Deployments**.  
+- 💡 I love **bridging technology with real-world business needs** to create meaningful impact.  
+- 🤝 Open to collaborate on **innovative, growth-driven projects**.  
+- 📫 Reach out via **[Email](mailto:ns422691@gmail.com)** or **[LinkedIn](https://in.linkedin.com/in/nitesh-sharma-076496176)**  
+- 😄 Pronouns: **He/Him**  
+- ⚡ Fun Fact: _"Every challenge is an opportunity to grow—and yes, I drink too much Tea!"_
+
+---
+
+### 🛠️ Tech Toolbox
 
 #### MERN Stack
-![MERN Stack](https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=1920&fit=max)
+<p align="center">
+  <img src="https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=1920&fit=max" alt="MERN Stack" width="70%">
+</p>
 
-#### DevOps with AWS & DigitalOcean
-![AWS](https://img.icons8.com/color/480/amazon-web-services.png)  
-![DigitalOcean](https://img.icons8.com/color/480/digital-ocean.png)  
+#### DevOps & Cloud
+<p align="center">
+  <img src="https://img.icons8.com/color/480/amazon-web-services.png" alt="AWS" width="100"/>  
+  <img src="https://img.icons8.com/color/480/digital-ocean.png" alt="DigitalOcean" width="100"/>
+</p>
 
-<!---
-nitesh-socialsellers/nitesh-socialsellers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="mailto:ns422691@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/></a>
+  <a href="https://in.linkedin.com/in/nitesh-sharma-076496176"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://github.com/javapaired"><img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/></a>
+</p>
+
+---
+
+> _“Code is not just syntax. It’s a bridge between ideas and reality.”_
+
