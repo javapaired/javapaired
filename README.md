@@ -1,9 +1,9 @@
-<h1 align="center">Hey there 👋, I'm Nitesh</h1>
-<h3 align="center">@javapaired • Backend & DevOps Enthusiast • Tea Lover ☕</h3>
+<h1 align="center">Hey there 👋, I'm Nitesh</h1> 
+<h3 align="center">@javapaired • Backend & DevOps Enthusiast • Tea Lover ☕</h3>  
 
 ---
+### 👨‍💻 About Me ![Profile views](https://komarev.com/ghpvc/?username=javapaired&label=Profile%20views&color=0e75b6&style=flat)
 
-### 👨‍💻 About Me
 - 🔧 Passionate about **Web Development, Backend Engineering, DevOps**, and **scaling applications for businesses**.  
 - 🌱 Currently diving deep into **Advanced Node.js**, **Microservices Architecture**, and **Cloud Deployments**.  
 - 💡 I love **bridging technology with real-world business needs** to create meaningful impact.  
